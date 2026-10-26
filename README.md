@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://tester.kappa.lol/zKGSn.png" width="600" alt="Tesuta"/><br/>
+	<img src="https://tesutavt.kappa.lol/Y2NjFx.png" width="600" alt="Tesuta"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
