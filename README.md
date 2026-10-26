@@ -1,15 +1,77 @@
 <h3 align="center">
-	<img src="https://tester.kappa.lol/zKGSn.png" width="600" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+<h3 align="center">
+	<img src="https://tester.kappa.lol/zKGSn.png" width="600" alt="Tesuta"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-<h3 align="center">Программист из деревни</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gametester228&label=Profile%20views&colorA=363a4f&colorB=b7bdf8&style=for-the-badge" alt="gametester228" /> </p>
+<p align="center">
+  <a href="https://github.com/tesutavt">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=B7BDF8&center=true&vCenter=true&width=500&lines=Hi!+I'm+Tesuta+%F0%9F%91%8B;VTuber+%2B+Programmer;Coding+from+the+village+%F0%9F%8C%BE;Building+cool+projects+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [MangaShop](https://github.com/GameTester228/MangaShop)
+<h3 align="center">Программист из деревни 🌾</h3>
 
-- 🌱 I’m currently learning **React**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tesutavt&label=Profile%20views&colorA=363a4f&colorB=b7bdf8&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/tesutavt?tab=followers">
+    <img src="https://img.shields.io/github/followers/tesutavt?label=Followers&style=for-the-badge&labelColor=363a4f&color=c6a0f6" alt="Followers" />
+  </a>
+</p>
 
-<h1 align="center">Languages and Tools:</h1>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Вставь свои ссылки вместо # и раскомментируй нужное
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Twitch-363a4f?style=for-the-badge&logo=twitch&logoColor=c6a0f6" alt="Twitch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-363a4f?style=for-the-badge&logo=youtube&logoColor=ed8796" alt="YouTube"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-363a4f?style=for-the-badge&logo=telegram&logoColor=8aadf4" alt="Telegram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-363a4f?style=for-the-badge&logo=discord&logoColor=b7bdf8" alt="Discord"/></a>
+</p>
+-->
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2" alt=""/>
+
+## 💜 Обо мне
+
+- 🎥 **Втубер** — стримлю, общаюсь, иногда кодю в прямом эфире
+- 💻 **Программист** — веб, игры и всё, что интересно попробовать
+- 🔭 Сейчас работаю над **[MangaShop](https://github.com/tesutavt/MangaShop)**
+- 🌱 Изучаю **React**
+- 💬 Пиши, если хочешь вместе сделать проект!
+
+## 🛠️ Языки и инструменты
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,php,react,bootstrap,mysql&perline=8" alt="Languages" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,figma,ps,git,linux&perline=8" alt="Tools" />
+  </a>
+</p>
+
+## 📌 Проекты
+
+<p align="center">
+  <a href="https://github.com/tesutavt/MangaShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tesutavt&repo=MangaShop&bg_color=24273a&title_color=b7bdf8&text_color=cad3f5&icon_color=c6a0f6&hide_border=true&border_radius=10" alt="MangaShop" />
+  </a>
+</p>
+
+## 📊 Статистика
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tesutavt&show_icons=true&bg_color=24273a&title_color=b7bdf8&text_color=cad3f5&icon_color=c6a0f6&hide_border=true&border_radius=10&locale=ru" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesutavt&layout=compact&bg_color=24273a&title_color=b7bdf8&text_color=cad3f5&hide_border=true&border_radius=10&locale=ru" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gtesutavt&background=24273a&ring=c6a0f6&fire=f5a97f&currStreakNum=cad3f5&sideNums=cad3f5&currStreakLabel=b7bdf8&sideLabels=b7bdf8&dates=a5adcb&stroke=363a4f&hide_border=true&border_radius=10&locale=ru" alt="GitHub streak" />
+</p>
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2" alt=""/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt=""/>
+</p>
+<p align="center"><i>Спасибо, что заглянул! ✨</i></p>
