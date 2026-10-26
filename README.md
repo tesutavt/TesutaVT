@@ -1,5 +1,4 @@
 <h3 align="center">
-<h3 align="center">
 	<img src="https://tester.kappa.lol/zKGSn.png" width="600" alt="Tesuta"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
@@ -66,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gtesutavt&background=24273a&ring=c6a0f6&fire=f5a97f&currStreakNum=cad3f5&sideNums=cad3f5&currStreakLabel=b7bdf8&sideLabels=b7bdf8&dates=a5adcb&stroke=363a4f&hide_border=true&border_radius=10&locale=ru" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=tesutavt&background=24273a&ring=c6a0f6&fire=f5a97f&currStreakNum=cad3f5&sideNums=cad3f5&currStreakLabel=b7bdf8&sideLabels=b7bdf8&dates=a5adcb&stroke=363a4f&hide_border=true&border_radius=10&locale=ru" alt="GitHub streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2" alt=""/>
