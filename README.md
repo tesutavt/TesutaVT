@@ -52,8 +52,8 @@
 ## 📌 Проекты
 
 <p align="center">
-  <a href="https://github.com/tesutavt/MangaShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tesutavt&repo=MangaShop&bg_color=24273a&title_color=b7bdf8&text_color=cad3f5&icon_color=c6a0f6&hide_border=true&border_radius=10" alt="MangaShop" />
+  <a href="https://github.com/tesutavt/Life-Hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tesutavt&repo=Life-Hub&bg_color=24273a&title_color=b7bdf8&text_color=cad3f5&icon_color=c6a0f6&hide_border=true&border_radius=10" alt="MangaShop" />
   </a>
 </p>
 
